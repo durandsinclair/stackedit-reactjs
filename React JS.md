@@ -6,9 +6,12 @@ Tutorial from [here](https://reactjs.org/docs/create-a-new-react-app.html#create
 ```sh
 npx create-react-app my-app
 cd my-app
+```
+
+```sh
 npm start
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTQ5NzIyOSwtMTY5NTM4NTY3N119
+eyJoaXN0b3J5IjpbMTY2OTkxMTg4OCwtMTY5NTM4NTY3N119
 -->
