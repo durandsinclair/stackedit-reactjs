@@ -15,10 +15,13 @@ rm -rf src
 mkdir src
 ```
 
+Add a file named index
+
 Start the application
 ```sh
 npm start
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwOTA1MjE3LC0xNjk1Mzg1Njc3XX0=
+eyJoaXN0b3J5IjpbLTE2OTUwMzQzNDQsLTE2OTUzODU2NzddfQ
+==
 -->
