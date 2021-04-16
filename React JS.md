@@ -4,9 +4,11 @@ Tutorial from [here](https://reactjs.org/docs/create-a-new-react-app.html#create
 
 ## Set up
 ```sh
-
+npx create-react-app my-app
+cd my-app
+npm start
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYxNjg1MjMsLTE2OTUzODU2NzddfQ
-==
+eyJoaXN0b3J5IjpbLTI5NTQ5NzIyOSwtMTY5NTM4NTY3N119
 -->
