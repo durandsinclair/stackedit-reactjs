@@ -15,13 +15,13 @@ rm -rf src
 mkdir src
 ```
 
-Add a file named index
+Add a file named index.css in the src folder
 
 Start the application
 ```sh
 npm start
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTUwMzQzNDQsLTE2OTUzODU2NzddfQ
+eyJoaXN0b3J5IjpbLTEyMzk2OTA1NzcsLTE2OTUzODU2NzddfQ
 ==
 -->
